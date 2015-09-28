@@ -17,7 +17,7 @@ touch Notebooks/Notes
 2. Drag Zim.app to the Applications folder
 3. Use the Zim App
 
-## Todo
+## To do
 - [ ] Better OsX integration
 - [ ] OsX Theme
 
