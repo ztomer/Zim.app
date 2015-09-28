@@ -4,7 +4,7 @@ Unofficial packaged ZIM desktop wiki application, for OsX.
 
 Current base version: 0.63
 
-# How to Install
+## How to Install
 
 1. Create a Notes file
 ```bash
@@ -15,7 +15,11 @@ touch Notebooks/Notes
 2. Drag Zim.app to the Applications folder
 3. Use the Zim App
 
-# Notes
+## Todo
+- [ ] Better OsX integration
+- [ ] OsX Theme
+
+## Notes
 
 1. The package was created using Playpus
 http://sveinbjorn.org/platypus 
