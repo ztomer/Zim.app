@@ -15,10 +15,9 @@ touch Notebooks/Notes
 3. Use the Zim App
 
 
-Note:
+Notes:
 1. The package was created using Playpus
 http://sveinbjorn.org/platypus
-
 2. Following the instructions here:
 http://docs.gz.ro/node/183
 
