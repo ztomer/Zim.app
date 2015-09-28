@@ -17,9 +17,9 @@ touch Notebooks/Notes
 
 Notes:
 1. The package was created using Playpus
-http://sveinbjorn.org/platypus
+http://sveinbjorn.org/platypus 
 2. Following the instructions here:
-http://docs.gz.ro/node/183
+http://docs.gz.ro/node/183 
 
 
 
