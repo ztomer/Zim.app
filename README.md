@@ -1,6 +1,6 @@
 # Zim.app
 
-Unofficial packaged ZIM desktop wiki application, for OsX.
+Unofficial OsX package for ZIM Desktop Wiki.
 
 Current base version: 0.63
 
