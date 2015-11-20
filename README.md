@@ -4,7 +4,7 @@ Unofficial OsX package for ZIM Desktop Wiki.
 
 http://zim-wiki.org/
 
-Current base version: 0.63
+Current base version: 0.65
 
 ## How to Install
 
